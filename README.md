@@ -5,15 +5,24 @@
 
 
 
+  
+  
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/nitin-agarwal0412/">
-    <img src="https://img.shields.io/badge/LinkedIn-001eff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-24688E?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/nitin_agarwal_2002/">
-    <img src="https://img.shields.io/badge/Instagram-f000ff?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-ca335c?style=for-the-badge&logo=Instagram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+  <a href="https://github.com/nitinagarwal2002/">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=GitHub&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+  
+  
+  
+  
 <img src="https://komarev.com/ghpvc/?username=nitinagarwal2002&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
