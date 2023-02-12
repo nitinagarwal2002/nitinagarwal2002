@@ -42,10 +42,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitinagarwal2002&theme=radical&bg_color=000000&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitinagarwal2002&theme=radical&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitinagarwal2002&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinagarwal2002&layout=compact&theme=vision-friendly-dark)](https://github.com/nitinagarwal2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinagarwal2002&layout=compact&theme=radical&bg_color=000000)](https://github.com/nitinagarwal2002/github-readme-stats)
 
 
 
